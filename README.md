@@ -17,3 +17,5 @@ The dataset is provided in an Excel file (citayamFashionWeekTweets.xlsx) contain
 5. en_tweet: An English translation (if available) of the tweet’s text.
 
 If you use this data and find anything interesting, please let us know. Feel free to contact us at vittalis.ayu@gmail.com or @vit-ayuk.
+
+please cite using this following DOI: 10.5281/zenodo.15533582 
